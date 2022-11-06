@@ -17,3 +17,6 @@ Hi 👋 I am Shobhan Sundar Goutam. This is a QR Code Generator app whcih will g
 - Live Link:- [QR Code Generator](https://qrcode-generator-fsjs.netlify.app/)
 
 ### Demo
+
+https://user-images.githubusercontent.com/81035407/200176656-22729175-09a1-4a81-bf4d-5cd16d690bd7.mp4
+
